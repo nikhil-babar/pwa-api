@@ -1,0 +1,329 @@
+{
+  "internships": [
+    {
+      "position": "Software Developer Intern",
+      "company": "Tata Consultancy Services Pvt Ltd",
+      "logo": null,
+      "skills": ["ExpressJS", "MongoDB", "ReactJS", "NextJS", "AngularJS"],
+      "duration": 3,
+      "stipend": [20000, 30000],
+      "applicants": 327,
+      "expiry": 3,
+      "posted": 9,
+      "open_positions": 10,
+      "location": "Noida",
+      "experience": "Intermediate",
+      "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology",
+      "requirements": [
+        "Someone who can work in a fast-paced startup environment",
+        "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+        "Good communication is a must-have for this role",
+        "Hardworking & Curious to learn/implement new things is what I prefer personally"
+      ],
+      "responsibilities": [
+        "Write clean, manageable code and follow standard coding practices",
+        "Write quality code with a clean UI/UX view",
+        "Work with the tech & non-tech teams to create a meaningful product for users",
+        "Capable to build a feature, testing, and deploying a feature on the production server"
+      ],
+      "category": ["Marketing", "Fullstack"],
+      "timing": "Full time",
+      "type": "InOffice"
+    },
+    {
+      "position": "Data Science Intern",
+      "company": "ABC Corporation",
+      "logo": null,
+      "skills": ["Python", "Machine Learning", "Data Analysis", "Statistics"],
+      "duration": 6,
+      "stipend": [15000, 25000],
+      "applicants": 150,
+      "expiry": 7,
+      "posted": 5,
+      "open_positions": 5,
+      "location": "Bangalore",
+      "experience": "Beginner",
+      "about": "We are a data-driven company specializing in advanced analytics and insights. We help businesses make data-informed decisions and leverage the power of data science to drive growth and innovation.",
+      "requirements": [
+        "Strong programming skills in Python",
+        "Knowledge of machine learning algorithms and techniques",
+        "Experience with data analysis and visualization",
+        "Good communication and problem-solving skills"
+      ],
+      "responsibilities": [
+        "Analyze and interpret complex data sets",
+        "Build and train predictive models",
+        "Collaborate with cross-functional teams to develop data-driven solutions",
+        "Present findings and insights to stakeholders"
+      ],
+      "category": ["Data Science", "Analytics"],
+      "timing": "Full time",
+      "type": "InOffice"
+    },
+    {
+      "position": "Digital Marketing Intern",
+      "company": "XYZ Marketing Agency",
+      "logo": null,
+      "skills": [
+        "Social Media Marketing",
+        "SEO",
+        "Google Analytics",
+        "Content Creation"
+      ],
+      "duration": 3,
+      "stipend": [10000, 15000],
+      "applicants": 80,
+      "expiry": 4,
+      "posted": 2,
+      "open_positions": 3,
+      "location": "Mumbai",
+      "experience": "Intermediate",
+      "about": "We are a full-service marketing agency helping businesses build their online presence and reach their target audience effectively. Our expertise includes social media marketing, search engine optimization, content creation, and data-driven strategies.",
+      "requirements": [
+        "Familiarity with popular social media platforms",
+        "Basic understanding of SEO principles",
+        "Proficiency in Google Analytics or similar tools",
+        "Excellent written and verbal communication skills"
+      ],
+      "responsibilities": [
+        "Manage social media accounts and campaigns",
+        "Optimize website content for search engines",
+        "Track and analyze marketing metrics",
+        "Create engaging and relevant content for various platforms"
+      ],
+      "category": ["Digital Marketing", "Social Media"],
+      "timing": "Full time",
+      "type": "Remote"
+    },
+    {
+      "position": "Graphic Design Intern",
+      "company": "Design Studio XYZ",
+      "logo": null,
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Graphic Design",
+        "Typography"
+      ],
+      "duration": 2,
+      "stipend": [8000, 12000],
+      "applicants": 50,
+      "expiry": 3,
+      "posted": 1,
+      "open_positions": 2,
+      "location": "Delhi",
+      "experience": "Beginner",
+      "about": "We are a creative design studio specializing in visual communication and branding. Our team is passionate about creating unique and impactful designs that resonate with our clients' target audience.",
+      "requirements": [
+        "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, etc.)",
+        "Strong understanding of graphic design principles",
+        "Attention to detail and a keen eye for aesthetics",
+        "Ability to work collaboratively in a team"
+      ],
+      "responsibilities": [
+        "Create visual assets for various projects",
+        "Develop and execute design concepts",
+        "Collaborate with the design team to meet client requirements",
+        "Maintain design files and assets"
+      ],
+      "category": ["Graphic Design", "Visual Communication"],
+      "timing": "Part time",
+      "type": "InOffice"
+    },
+    {
+      "position": "Content Writing Intern",
+      "company": "ABC Content Agency",
+      "logo": null,
+      "skills": ["Content Writing", "Copywriting", "SEO", "Research"],
+      "duration": 3,
+      "stipend": [12000, 18000],
+      "applicants": 100,
+      "expiry": 5,
+      "posted": 4,
+      "open_positions": 4,
+      "location": "Pune",
+      "experience": "Intermediate",
+      "about": "We are a content agency specializing in creating engaging and compelling content for various industries. Our team of talented writers and editors ensures that our clients' content stands out and effectively communicates their brand message.",
+      "requirements": [
+        "Excellent written and verbal communication skills",
+        "Strong grasp of grammar and writing style",
+        "Familiarity with SEO best practices",
+        "Ability to conduct thorough research"
+      ],
+      "responsibilities": [
+        "Write and edit content for different platforms (blogs, websites, social media, etc.)",
+        "Optimize content for search engines",
+        "Conduct research on industry-related topics",
+        "Collaborate with the content team to meet deadlines"
+      ],
+      "category": ["Content Writing", "Copywriting"],
+      "timing": "Full time",
+      "type": "Remote"
+    },
+    {
+      "position": "Business Development Intern",
+      "company": "XYZ Startup",
+      "logo": null,
+      "skills": [
+        "Sales",
+        "Lead Generation",
+        "Market Research",
+        "Communication"
+      ],
+      "duration": 6,
+      "stipend": [15000, 25000],
+      "applicants": 120,
+      "expiry": 7,
+      "posted": 5,
+      "open_positions": 3,
+      "location": "Gurgaon",
+      "experience": "Beginner",
+      "about": "We are a fast-growing startup focused on disrupting the industry with our innovative products. As a business development intern, you will have the opportunity to contribute to our growth by identifying new business opportunities and building relationships with potential clients.",
+      "requirements": [
+        "Strong interpersonal and communication skills",
+        "Ability to conduct market research and identify potential leads",
+        "Interest in technology and startups",
+        "Self-motivated and results-oriented"
+      ],
+      "responsibilities": [
+        "Conduct market research to identify potential clients and market trends",
+        "Generate leads and cold-call/email potential prospects",
+        "Assist in developing and implementing sales strategies",
+        "Collaborate with the sales team to achieve targets"
+      ],
+      "category": ["Business Development", "Sales"],
+      "timing": "Full time",
+      "type": "InOffice"
+    },
+    {
+      "position": "UI/UX Design Intern",
+      "company": "Digital Agency ABC",
+      "logo": null,
+      "skills": ["UI Design", "UX Design", "Prototyping", "Wireframing"],
+      "duration": 3,
+      "stipend": [10000, 15000],
+      "applicants": 80,
+      "expiry": 4,
+      "posted": 2,
+      "open_positions": 3,
+      "location": "Chennai",
+      "experience": "Intermediate",
+      "about": "We are a digital agency specializing in user-centered design solutions. Our talented team of designers creates intuitive and visually appealing interfaces that enhance user experiences across various platforms.",
+      "requirements": [
+        "Proficiency in UI/UX design tools (e.g., Adobe XD, Sketch, Figma)",
+        "Understanding of design principles and best practices",
+        "Ability to create wireframes and prototypes",
+        "Attention to detail and a passion for creating beautiful designs"
+      ],
+      "responsibilities": [
+        "Create user interface designs for web and mobile applications",
+        "Develop wireframes and interactive prototypes",
+        "Collaborate with the design and development teams to implement designs",
+        "Conduct user research and usability testing"
+      ],
+      "category": ["UI/UX Design", "User Experience"],
+      "timing": "Full time",
+      "type": "Remote"
+    },
+    {
+      "position": "Human Resources Intern",
+      "company": "XYZ Corporation",
+      "logo": null,
+      "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "HR Policies",
+        "Administrative Tasks"
+      ],
+      "duration": 4,
+      "stipend": [12000, 18000],
+      "applicants": 70,
+      "expiry": 6,
+      "posted": 3,
+      "open_positions": 2,
+      "location": "Hyderabad",
+      "experience": "Beginner",
+      "about": "We are a leading corporation with a diverse workforce. As an HR intern, you will gain hands-on experience in various HR functions and contribute to creating a positive work environment for our employees.",
+      "requirements": [
+        "Strong interpersonal and communication skills",
+        "Basic knowledge of HR policies and practices",
+        "Ability to maintain confidentiality",
+        "Attention to detail and organizational skills"
+      ],
+      "responsibilities": [
+        "Assist in recruitment processes, including sourcing and screening candidates",
+        "Coordinate employee onboarding and orientation",
+        "Maintain HR records and databases",
+        "Assist in employee relations activities"
+      ],
+      "category": ["Human Resources", "Recruitment"],
+      "timing": "Part time",
+      "type": "InOffice"
+    },
+    {
+      "position": "Mobile App Development Intern",
+      "company": "XYZ Tech Solutions",
+      "logo": null,
+      "skills": ["Android Development", "iOS Development", "Java", "Swift"],
+      "duration": 3,
+      "stipend": [15000, 25000],
+      "applicants": 100,
+      "expiry": 5,
+      "posted": 4,
+      "open_positions": 4,
+      "location": "Mumbai",
+      "experience": "Intermediate",
+      "about": "We are a tech solutions company specializing in mobile app development for Android and iOS platforms. Join our dynamic team to work on exciting projects and gain practical experience in building innovative mobile applications.",
+      "requirements": [
+        "Knowledge of Android app development (Java/Kotlin) or iOS app development (Swift)",
+        "Familiarity with mobile development frameworks and tools",
+        "Passion for creating user-friendly and visually appealing apps",
+        "Ability to work collaboratively in a team"
+      ],
+      "responsibilities": [
+        "Develop and maintain mobile applications for Android or iOS platforms",
+        "Collaborate with the development team to implement features and enhancements",
+        "Perform testing and debugging of mobile apps",
+        "Stay updated with the latest mobile development trends and best practices"
+      ],
+      "category": ["Mobile App Development", "Android", "iOS"],
+      "timing": "Full time",
+      "type": "Remote"
+    },
+    {
+      "position": "Finance Intern",
+      "company": "XYZ Financial Services",
+      "logo": null,
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Excel",
+        "Financial Modeling"
+      ],
+      "duration": 4,
+      "stipend": [15000, 20000],
+      "applicants": 60,
+      "expiry": 6,
+      "posted": 4,
+      "open_positions": 2,
+      "location": "Mumbai",
+      "experience": "Intermediate",
+      "about": "We are a financial services company providing comprehensive solutions to our clients. Join our finance team as an intern to gain practical experience in financial analysis, accounting, and financial modeling.",
+      "requirements": [
+        "Basic knowledge of financial analysis and accounting principles",
+        "Proficiency in Microsoft Excel",
+        "Strong analytical and problem-solving skills",
+        "Attention to detail and ability to work with numbers"
+      ],
+      "responsibilities": [
+        "Assist in financial analysis and reporting",
+        "Perform data entry and maintain financial records",
+        "Assist in financial modeling and forecasting",
+        "Support the finance team in day-to-day tasks"
+      ],
+      "category": ["Finance", "Accounting"],
+      "timing": "Part time",
+      "type": "InOffice"
+    }
+  ]
+}
