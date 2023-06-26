@@ -17,7 +17,7 @@ mongoose
 
 app.use(
   cors({
-    origin: "https://pwa.onrender.com",
+    origin: "https://pwa-9709.onrender.com",
   })
 );
 
